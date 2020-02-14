@@ -4,7 +4,7 @@ import (
 	"flag"
 	"os"
 
-	"github.com/Uclok31v/image_conversion/convert"
+	"github.com/kenwoo9y/image_conversion/convert"
 )
 
 var (
